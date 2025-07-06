@@ -1,2 +1,3 @@
 this is a repo for my own practice
-no use for others
+
+this is also writing in loacl machine with bash
